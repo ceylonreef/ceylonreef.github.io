@@ -1,14 +1,15 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Welcome to Ceylon reef"
+date:   2018-09-05 10:42:36 +0530
+categories: News
 ---
 
-After twenty five years of freshwater hobby, just wanted to try out the saltwater hobby and there is where the Ceylon reef was born.
+After twenty five years of freshwater hobby, just wanted to try out the saltwater hobby and there is where the Ceylon reef was born. 
 
 I am Yoosuf Mohamed, an aquarist, enjoying the aquarium hobby for past 25 years, on 12th of March 2018 kicked started with the saltwater hobby and really enjoying every bit of it and every moment of it.
 
-### What is Ceylon Reef?
+###  What is Ceylon Reef?
 
 Ceylon Reef is a little online store l, magazine and gallery which will showcase random tank photos and beautiful photos around the internet, additionally my intention to start this site is to promote aquaculture in the marine hobby.
 
