@@ -41,6 +41,7 @@ exclude:
 header_pages:
 - store.markdown
 - resources.markdown
+- events.markdown
 - posts.markdown
 - about.markdown
 - contact.markdown
