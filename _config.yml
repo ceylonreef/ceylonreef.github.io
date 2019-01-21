@@ -27,7 +27,6 @@ url: "https://ceylonreef.com" # the base hostname & protocol for your site, e.g.
 
 
 twitter_username: ceylonreef
-github_username:  ceylonreef
 facebook_username:  ceylonreef
 instagram_username:  ceylonreef
 
@@ -52,3 +51,7 @@ google_analytics: UA-127083378-1
 gems:
  - jekyll-feed
  - jekyll-seo-tag
+
+collections:
+  - resources
+  - products
