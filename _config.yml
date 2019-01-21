@@ -36,6 +36,7 @@ exclude:
 
 
 header_pages:
+- resources.html
 - about.md
 - posts.md
 - contact.md

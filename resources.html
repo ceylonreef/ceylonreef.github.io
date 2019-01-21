@@ -1,0 +1,10 @@
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
+
+{% for resource in site.pages %}
+    <h3><a href="{{ resources.url }}">{{ resources.title }}</a></h3>
+    <p>{{ resources.content }}</p>
+{% endfor %}
