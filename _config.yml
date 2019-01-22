@@ -53,6 +53,9 @@ gems:
  - jekyll-feed
  - jekyll-seo-tag
 
+
 collections:
-  - resources
-  - products
+  resources:
+    output: true
+  products:
+    output: true
