@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Powerheads
+title:  Powerheads / Wavemaker
 permalink: /resources/saltwater-tank/powerhead
 ---
 
-Depending on the size of your aquarium, the use one or several powerheads is an excellent way to provide good water circulation throughout the system.
+Depending on the size of your marine aquarium, the use one or several powerheads is an excellent way to provide good water circulation throughout the system.

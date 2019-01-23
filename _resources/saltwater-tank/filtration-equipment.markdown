@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Protein Skimmers, Filters & Filtration Equipment
+title:  Protein Skimmers, Filters and Filtration Equipments
 permalink: /resources/saltwater-tank/filtration-equipment
 ---
 

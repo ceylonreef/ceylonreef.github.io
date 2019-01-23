@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Aquarium Lighting
+title:  Marine / Saltwater aquarium lighting
 permalink: /resources/saltwater-tank/aquarium-lighting
 ---
 
@@ -10,4 +10,4 @@ Fish-Only Tank Lighting is less expensive while Reef Tank Lighting and Coral Lig
 
 The lighting products found in Top Power Compact Fluorescent Light Fixtures, Top Fluorescent Aquarium Light Hoods and Top 5 Top Metal Halide Fixtures will give you an idea of what is currently available on the market.
 
-If you are interested in a long (and even short) term money saver, look into the LED Light Fixtures. These sleek, compact and efficient fixtures are now available with reef grade bulbs. You will also find that using a Power Center to control your lights and other electrical equipment will greatly simplify running your new aquarium.
+If you are interested in a long (and even short) term money saver, look into the LED Light Fixtures. These sleek, compact and efficient fixtures are now available with reef grade bulbs. You will also find that using a Power Center to control your lights and other electrical equipment will greatly simplify running your new marine aquarium.

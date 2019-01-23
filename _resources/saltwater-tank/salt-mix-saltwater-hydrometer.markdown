@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Sea Salt Mix/Saltwater & Hydrometer
+title:  Sea Salt Mix/Saltwater and Hydrometer
 permalink: /resources/saltwater-tank/salt-mix-saltwater-hydrometer
 ---
 
@@ -9,7 +9,6 @@ Sea salts are what make an aquarium a saltwater or marine aquarium. Also referre
 ### Sea Salt Mix/Saltwater
 
 * Sea Salt Mixes Polls
-* What to Look For & Compare When Buying
 
 ### Hydrometer
 Also referred to as a salinity tester, this item measures the specific gravity or salt content of the water. 

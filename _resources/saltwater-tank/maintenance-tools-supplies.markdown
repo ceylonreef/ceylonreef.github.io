@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Maintenance Tools & Supplies
+title:  Maintenance Tools and Supplies
 permalink: /resources/saltwater-tank/maintenance-tools-supplies
 ---
 
