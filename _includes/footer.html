@@ -18,9 +18,18 @@
         <p>{{ site.description | escape }}</p>
       </div>
 
-      <div class="social-links">
+      <div class="social-links footer-col">
         {% include social.html %}
       </div>
+
+
+      <div class="copyright footer-col">
+        <p>&copy; {{ site.title | escape }} {{ 'now' | date: "%Y" }}. All rights reserved</p>
+
+      </div>
+
+
+
     </div>
 
   </div>

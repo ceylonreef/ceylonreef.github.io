@@ -145,12 +145,18 @@
   margin-left: 0;
 }
 
+.copyright {
+  text-align: center;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
+
+
 
 .footer-col {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
