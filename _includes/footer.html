@@ -35,3 +35,15 @@
   </div>
 
 </footer>
+
+
+<script type="text/javascript" src="{{ "/js/instafeed.min.js" | relative_url }}"></script>
+<script type="text/javascript">
+  var feed = new Instafeed({
+    get: 'user',
+    userId: 'ceylonreef',
+    clientId: '12593b81ecf942f2af39bd984b083656'
+  });
+  feed.run();
+</script>
+
