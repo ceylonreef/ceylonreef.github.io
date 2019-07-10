@@ -44,4 +44,4 @@ We will notify you once your project is ready to leave our facility and schedule
 
 
 ## How to start the project 
-Get in touch via our email with yor complete requirement, one of our project manager will get in touch with you.
+Get in touch via our email with your complete requirement, one of our project manager will get in touch with you.
