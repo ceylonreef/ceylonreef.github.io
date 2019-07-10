@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Heater, Thermometer and Chiller
+pageTitle: "Heater, Thermometer and Chiller"
 permalink: /resources/saltwater-tank/heater-thermometer-chiller
 ---
 

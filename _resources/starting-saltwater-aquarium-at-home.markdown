@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Starting a Saltwater Aquarium at Home
+pageTitle: "Starting a Saltwater Aquarium at Home"
 permalink: /resources/starting-saltwater-aquarium-at-home
 ---
 

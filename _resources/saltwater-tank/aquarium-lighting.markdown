@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Marine / Saltwater aquarium lighting
+pageTitle: "Marine / Saltwater aquarium lighting"
 permalink: /resources/saltwater-tank/aquarium-lighting
 ---
 

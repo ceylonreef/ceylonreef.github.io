@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Powerheads / Wavemaker
+pageTitle: "Powerheads / Wavemaker"
 permalink: /resources/saltwater-tank/powerhead
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Substrate and Live Rock
+pageTitle: "Substrate and Live Rock"
 permalink: /resources/saltwater-tank/substrate-live-rock
 ---
 

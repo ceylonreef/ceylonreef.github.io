@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Sea Salt Mix/Saltwater and Hydrometer
+pageTitle: "Sea Salt Mix/Saltwater and Hydrometer"
 permalink: /resources/saltwater-tank/salt-mix-saltwater-hydrometer
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ops Error!
+pageTitle: "Something is not right!"
 ---
 
 * Message us on  [Facebook](https://www.facebook.com/ceylonreef/){:target="_blank"}

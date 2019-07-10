@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Test Kits, Additives and Supplements
+pageTitle: "Test Kits, Additives and Supplements"
 permalink: /resources/saltwater-tank/test-kits-additives-supplements
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+pageTitle: "About Ceylon Reef"
 permalink: /about/
 ---
 

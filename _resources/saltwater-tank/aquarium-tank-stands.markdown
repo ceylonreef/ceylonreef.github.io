@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Aquarium/Tank and Stand
+pageTitle: "Aquarium/Tank and Stand"
 permalink: /resources/saltwater-tank/aquarium-tank-stands
 ---
 

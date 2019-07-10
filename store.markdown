@@ -1,6 +1,7 @@
 ---
 layout: store
 title: "Shop"
+pageTitle: "Shop"
 permalink: /store/
 ---
 

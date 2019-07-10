@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Maintenance Tools and Supplies
+pageTitle: "Maintenance Tools and Supplies"
 permalink: /resources/saltwater-tank/maintenance-tools-supplies
 ---
 

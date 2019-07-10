@@ -1,6 +1,7 @@
 ---
 layout: events
 title: Events
+pageTitle: "Events
 permalink: /events/
 ---
 
