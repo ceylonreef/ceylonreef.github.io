@@ -2,6 +2,7 @@
 layout: page
 title: "Consultancy"
 pageTitle: "We build the most outstanding aquarium designs in Sri Lanka"
+metaDescription: "Specialists in custom fish tanks, luxury aquarium design, installation and maintenance in Sri Lanka. We understand that your vision and expectation is key to a successful project. Ceylon Reef listens to your needs and creates a blueprint of what to expect throughout the design and build process."
 permalink: /consultancy/
 ---
 
@@ -44,4 +45,4 @@ We will notify you once your project is ready to leave our facility and schedule
 
 
 ## How to start the project 
-Get in touch via our email with your complete requirement, one of our project manager will get in touch with you.
+Get in touch via our email ceylonreef(at)gmail(dot)com or call us on +94776002114 with your complete requirement, one of our project manager will get in touch with you.

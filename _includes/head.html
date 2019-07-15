@@ -2,14 +2,27 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    
+    {% if page.pageTitle %}
+    {{ page.pageTitle | escape }}
+    {% else %}
+      {{ page.title | escape }}
+    {% endif %}
+    
+     - {{ site.title | escape }}</title>
+
 
 
   <meta name="p:domain_verify" content="bc0be2176b29d134c271d3544c0107d7" />
+
+  <meta name="description" content="{{ page.metaDescription | escape }} ">
   <meta name="keywords" content="building aquarium,sri lanka aquarium,marine fish,aquarium,saltwater fish,Sri Lanka Fish Tank Manufacturers,Sri Lanka Fish Tank Suppliers,sri lankan aquariums,aquarium & pond supplies in sri lanka,aquarium installation,aquarium design,reef aquarium,saltwater aquarium,marine aquarium sri lanka,reef aquarium sri lanka,fish tank,aquarium maintenance sri lanka,aquarium installation,aquarium design,aquarium service,Ceylonreef,ceylonreef sri   lanka,architect sri lanka,interior decor sri lanka,marine,reef,coral,freshwater,saltwater,African   Cichlids,Goldfish,arowana,water world,Aquamarines,Tropical Fish,Clown Fish,Seahorses,Captive bred,nemo,Tanks bred,   glass tank,acrylic tank, skimmer, redsea, protine skimmer, sump, jebao, echotech, kessil">
-  {% seo %}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {% feed_meta %}
   {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include google-analytics.html %}
   {% endif %}
+    {% seo %}
+
 </head>
