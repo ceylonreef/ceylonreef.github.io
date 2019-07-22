@@ -6,8 +6,7 @@ metaDescription: "Specialists in custom fish tanks, luxury aquarium design, inst
 permalink: /consultancy/
 ---
 
-Specialists in custom fish tanks, luxury aquarium design, installation and maintenance. We understand that your vision and expectation is key to a successful project. Ceylon Reef listens to your needs and creates a blueprint of what to expect throughout the design and build process.
-
+Specialists in designing and building bespoke freshwater aquarium, marine aquarium or brackish aquarium. We design luxury aquarium design, installation and maintenance. We understand that your vision and expectation is key to a successful project. Ceylon Reef listens to your needs and creates a blueprint of what to expect throughout the design and build process.
 
 #### Consultancy
 We understand that your vision and expectation is key to a successful project. Ceylon Reef listens to your needs and creates a blueprint of what to expect throughout the design and build process.
@@ -28,7 +27,7 @@ Regardless of your location, Ceylon Reef affiliates will maintain your new aquar
 
 
 
-## How our process works
+## How our aquarium building process works
 #### 1. Discover
 
 Let’s explore the possibility of a custom aquarium thru the discovery phone call with our team.
@@ -44,5 +43,15 @@ Once the preliminary phase of the project is complete, our team of manufacturers
 We will notify you once your project is ready to leave our facility and schedule delivery and installation from our team of professionals.
 
 
+## Ready made aquariums
+We have set of ready made aquaroums and we can help you making it fresh water aqaurium or salt water aqaurium.
+
+Following aquarium sizes are readily available;
+
+* 10 Gallon Width 300mm , Height 330mm, Depth 380mm
+* 20 Gallon Width 600mm , Height 330mm, Depth 290mm
+* 30 Gallon Width 900mm , Height 330mm, Depth 360mm
+* 40 Gallon Width 900mm , Height 400mm, Depth 460mm
+
 ## How to start the project 
-Get in touch via our email ceylonreef(at)gmail(dot)com or call us on +94776002114 with your complete requirement, one of our project manager will get in touch with you.
+For building an outstanding planted aquarium or a reef / marine aquairium for your house or office, get in touch via our email ceylonreef(at)gmail(dot)com or call us on +94776002114 with your complete requirement, one of our project manager will get in touch with you.
